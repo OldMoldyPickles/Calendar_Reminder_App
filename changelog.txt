@@ -25,3 +25,7 @@
 	- still working on todolist and calendaractivity java classes
 	- finshed event_view.xml (where to create an event for a day)
 	- started stats_view.xml
+(5/23/19) v0.0.7:
+        - currently working on bug from todolist.java 
+        -
+	-
